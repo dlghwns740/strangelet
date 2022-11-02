@@ -187,7 +187,7 @@ pre {
 }
 
 code {
-	font-family: var(--source-code-font);
+	font-family: var(--source-code-font), monospace;
 	margin: unset;
 	padding: 0.1rem;
 	color: var(--highlight-text-color);
