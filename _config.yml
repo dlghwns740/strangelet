@@ -13,17 +13,17 @@ author:
   name: Strangelet
   bio: Always explore, ponder and prove
   userpicture: 
-  username: # general username
-  github: # github username
+  username: Strangelet # general username
+  github: dlghwns740 # github username
   twitter: # twitter username
-  email: your-email@email.com # email adress
+  email: dlghwns740@gmail.com # email adress
 
 # Font Settings
 googlewebfonts: family=Noto Sans Korean:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
 
 # URL settings
-url: "https://DavideBri.github.io" # Domain Name of host. [username].github.io for github pages
-baseurl: "/Gesko" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+url: "https://dlghwns740.github.io/strangelet" # Domain Name of host. [username].github.io for github pages
+baseurl: "/strangelet" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
 # local
