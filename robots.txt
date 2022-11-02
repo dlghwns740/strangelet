@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://dlghwns740.github.io/strangelet/sitemap.xml
+Sitemap: https://dlghwns740.github.io//sitemap.xml
