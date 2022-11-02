@@ -4,7 +4,7 @@ greetings: 진인사대천명 스타트업 사전 📚
 description: >-
   Always explore, ponder and prove
 lang: KR
-timezone:  asia/korea
+timezone: Asia/Seoul
 data-theme: dark # default theme "dark" | "light"
 discus-identifier: powex # replace with your disqus shortname
 
