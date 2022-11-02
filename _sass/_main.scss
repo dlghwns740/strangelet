@@ -159,7 +159,7 @@ html[data-theme="dark"] {
 }
 
 body {
-	font-family: var(--text-font), monospace;
+	font-family: var(--text-font);
 	text-rendering: optimizeLegibility;
 	line-height: 1.75;
 	color: var(--main-text-color);
@@ -187,7 +187,7 @@ pre {
 }
 
 code {
-	font-family: var(--source-code-font), monospace;
+	font-family: var(--source-code-font);
 	margin: unset;
 	padding: 0.1rem;
 	color: var(--highlight-text-color);
