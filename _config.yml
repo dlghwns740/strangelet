@@ -5,7 +5,6 @@ description: >-
   Always explore, ponder and prove
 lang: en-US
 timezone:  asia/korea
-repo: https://github.com/DavideBri/Gesko # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 discus-identifier: powex # replace with your disqus shortname
 
