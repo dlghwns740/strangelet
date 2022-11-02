@@ -31,10 +31,11 @@ html {
 	appearance: none;
 	transform: scale(0.8);
 }
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
 
 html,
 html[data-theme="light"] {
-	--text-font: assets/font/Noto_Sans_KR;
+	--text-font:  font-family: 'Noto Sans KR', sans-serif!important;
 	--source-code-font: Source Code Pro;
 	--very-light-text-color: rgb(222, 222, 222);
 	--light-text-color: rgb(89, 183, 255);
@@ -98,7 +99,7 @@ html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-	--text-font: assets/font/Noto_Sans_KR;
+	--text-font:  font-family: 'Noto Sans KR', sans-serif!important;
 	--source-code-font: Source Code Pro;
 	--very-light-text-color: #EEE;
 	--light-text-color: #c4bbf0;
