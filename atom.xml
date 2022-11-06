@@ -4,7 +4,7 @@
  <title>Strangelet</title>
  <link href="https://dlghwns740.github.io//atom.xml" rel="self"/>
  <link href="https://dlghwns740.github.io//"/>
- <updated>2022-11-07T03:47:05+09:00</updated>
+ <updated>2022-11-07T03:49:07+09:00</updated>
  <id>https://dlghwns740.github.io</id>
  <author>
    <name>Strangelet</name>
@@ -19,6 +19,7 @@
    <id>https://dlghwns740.github.io/2022/11/05/스타트업</id>
    <content type="html">
 &lt;hr /&gt;
+
 &lt;p&gt;layout: post&lt;/p&gt;
 
 &lt;p&gt;title: 스타트업&lt;/p&gt;
@@ -29,7 +30,9 @@
 
 &lt;p&gt;tags: stratup&lt;/p&gt;
 
-&lt;h2 id=&quot;minute-2&quot;&gt;minute: 2&lt;/h2&gt;
+&lt;p&gt;minute: 2&lt;/p&gt;
+
+&lt;hr /&gt;
 &lt;h1 id=&quot;스타트업&quot;&gt;스타트업&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;p&gt;최초의 스타트업은 1957년 반도체의 아버지라고 불리는 윌리엄 쇼클리(William Shockley)가 창립한 &lt;strong&gt;페어차일드 반도체(Fairchild Semiconductor)&lt;/strong&gt; 입니다. 시작부터 기술기반의 사업으로 시작된것이 스타트업이며 본질적으로 무형의 지적재산권을 기반으로 사업을 영위하는 초기 기업의 형태를 가지고 있습니다.&lt;/p&gt;
