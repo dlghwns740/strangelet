@@ -4,7 +4,7 @@
  <title>Strangelet</title>
  <link href="https://dlghwns740.github.io//atom.xml" rel="self"/>
  <link href="https://dlghwns740.github.io//"/>
- <updated>2022-11-07T03:59:44+09:00</updated>
+ <updated>2022-11-09T00:18:05+09:00</updated>
  <id>https://dlghwns740.github.io</id>
  <author>
    <name>Strangelet</name>
@@ -38,53 +38,22 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;시리즈 A 단계
-Seed 단계에서 회사로서의 기초적인 인프라 구축과 제품 및 고객을 갖추게 된 단계입니다. 이 단계에서는&lt;/p&gt;
+Seed 단계에서 회사로서의 기초적인 인프라 구축과 제품 및 고객을 갖추게 된 단계입니다. 이 단계에서는 어떠한 사업을 해나갈지에 대한 방향성과 제품의 정체성을 확립한 단계입니다. 이 단계부터는 매출, 고용 등 기업으로서의 현금 가치를 발생시키게 되며, 사업성을 인정받아 외부 투자자로부터 자금조달을 하게된 상태가 일반적입니다.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;시리즈 B 단계
+명확한 고객과 제품이 시장에 진입한 상태로서 이미 진입한 시장에서 자신들의 사업을 더욱 확장하고 고도화하기 위해서 자금조달을 완료한 단계입니다. 보통 대규모 채용 및 제품 개발과 마케팅에 많은 자금을 사용하게 됩니다.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;시리즈 C~ 
+이후 단계는 스타트업의 목표에 따라서 현지 시장에서의 사업 확장이나 글로벌 진출을 위해서 자금조달을 하는 단계별로 시리즈 이름이 붙여지게됩니다. (시리즈 C, 시리즈 D 시리즈 E…)
+이 단계부터는 스타트업 보다는 기업으로서의 인프라가 정상적으로 갖춰진 상태이며 고용 인력이 초기 단계에 비해서 현저히 증가한 모습을 보입니다.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>절대적으로 주관적인 스타트업 사전   작성 아이디어 리스트</title>
-   <link href="https://dlghwns740.github.io//2022/11/04/%EC%A0%88%EB%8C%80%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%A3%BC%EA%B4%80%EC%A0%81%EC%9D%B8-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%82%AC%EC%A0%84-%EC%9E%91%EC%84%B1-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EB%A6%AC%EC%8A%A4%ED%8A%B8"/>
-   <updated>2022-11-04T00:00:00+09:00</updated>
-   <id>https://dlghwns740.github.io/2022/11/04/절대적으로 주관적인 스타트업 사전 - 작성 아이디어 리스트</id>
-   <content type="html">&lt;hr /&gt;
 
-&lt;ul class=&quot;task-list&quot;&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;스타트업&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;사업&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;경영&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;비즈니스 모델&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;시장(사업)&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;PMF&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://s3.us-west-2.amazonaws.com/secure.notion-static.com/59de5113-9f10-47df-80f1-1e1c2555b84d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;amp;X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221105%2Fus-west-2%2Fs3%2Faws4_request&amp;amp;X-Amz-Date=20221105T143944Z&amp;amp;X-Amz-Expires=86400&amp;amp;X-Amz-Signature=bfd3c61f0219660b1382ce3ba65463a67dd0d5b18c64feb7c4876c63f1b37c45&amp;amp;X-Amz-SignedHeaders=host&amp;amp;response-content-disposition=filename%3D%22Untitled.png%22&amp;amp;x-id=GetObject&quot; alt=&quot;test img&quot; /&gt;&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>진인사대천명 스타트업 사전📚</title>
-   <link href="https://dlghwns740.github.io//2022/11/03/%EC%A7%84%EC%9D%B8%EC%82%AC%EB%8C%80%EC%B2%9C%EB%AA%85-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%82%AC%EC%A0%84"/>
-   <updated>2022-11-03T00:00:00+09:00</updated>
-   <id>https://dlghwns740.github.io/2022/11/03/진인사대천명-스타트업-사전📚</id>
-   <content type="html">&lt;h1 id=&quot;이-사전은-무었-때문에-만들고-있는가&quot;&gt;이 사전은 무었 때문에 만들고 있는가&lt;/h1&gt;
+&lt;h6 id=&quot;writing-log&quot;&gt;writing log&lt;/h6&gt;
 &lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;”ice-nine” disaster scenario&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;ice-nine 시나리오를 통해서 Strangelet(기묘체)를 흥미롭게 설명하는걸 보면 아직 안만들어지고 정리되지 않은 수많은 아이디어를 구체적으로 증명하고 상상하고 이를 사람들에게 쉽게 설명해보고 싶다는 욕구가 솓구칩니다.&lt;/p&gt;
-
-&lt;p&gt;Strangelet은 복잡한 양자역학 가설인데, 이를 대중에게 설명하고자 1963년에 출간된 &lt;em&gt;&lt;strong&gt;Cat’s Cradle 이라는 소설에 등장한 ice-nine&lt;/strong&gt;&lt;/em&gt; 이라는 물질을 통해 비유하여 재밌게 설명합니다. 소설속에서 ice-nine은 섭씨 45도까지 얼어있는 물의 일종인데, 다른 물 분자와 접촉하면 ice-nine으로 결정화 되어버리기 때문에 접촉한 물이 모두 ice-nine이 되어버립니다. 여기서 사람의 몸은 70%가 물이기 때문에 사람이 ice-nine에 접촉하면 온몸이 순식간에 얼어버리죠. Strangelet도 비슷한 현상입니다. 너무 많은 원자 쿼크가 달라붙어서 Strangelet이라는게 만들어지고 이게 안정화 될 경우 ice-nine처럼 접촉한 원자들을 모두 Strangelet로 바꿔버릴 수 있다는 가설이 나오기 시작했습니다. 이 가설이 만약 검증된다면 &lt;strong&gt;Strangelet 원자 1개라도 지구 대기권에 접촉하는 순간 지구는 순식간에 Stranglet으로 모두 변환되고 이미 어떤 은하는 모두 Stranglet으로 변환되어 있을거라는 멸망 시나리오도 등장합니다.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;이 노션 블로그는 Strangelet처럼 복잡하고 어렵지만 흥미로운 새로운 아디이어를 간결하게 설명해서 흥미를 일으키고 무언가를 얻어가는 느낌의 글을 써보고자 만들어졌습니다. 과학, 사회현상, IT, 제품 아이디어 등 주제와 학문의 구분없이 Stranglet과 ice-nine의 이야기처럼 재밌는 가설을 써내려가보자 합니다.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;at privacy software maker &lt;a href=&quot;https://lockdownprivacy.com/&quot;&gt;Lockdown&lt;/a&gt; and The Washington Post. “Subway Surfers” starts sending an outside ad company called &lt;a href=&quot;https://www.chartboost.com/&quot;&gt;Chartboost&lt;/a&gt; 29 very specific data points about your iPhone, including your Internet address, your free storage, your current volume level (to 3 decimal points) and even your battery level (to 15 decimal points). It’s the kind of unique data that could be used by advertisers to identify your iPhone, possibly letting them know what other apps you use or how to target you. &lt;a href=&quot;https://www.washingtonpost.com/technology/2021/09/23/iphone-tracking/&quot;&gt;출처: The Washington Post&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
+&lt;p&gt;2022-11-09- 초안 작성&lt;/p&gt;
 </content>
  </entry>
  
