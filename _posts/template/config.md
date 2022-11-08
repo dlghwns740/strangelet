@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 
-description: 
+description:  
 summary: 
 tags: 
 minute: 
+comments: false
 ---
