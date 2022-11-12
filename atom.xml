@@ -4,7 +4,7 @@
  <title>Strangelet</title>
  <link href="https://dlghwns740.github.io//atom.xml" rel="self"/>
  <link href="https://dlghwns740.github.io//"/>
- <updated>2022-11-12T22:32:41+09:00</updated>
+ <updated>2022-11-12T22:34:07+09:00</updated>
  <id>https://dlghwns740.github.io</id>
  <author>
    <name>Strangelet</name>
@@ -17,8 +17,8 @@
    <link href="https://dlghwns740.github.io//2022/11/12/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%AA%A8%EB%8D%B8"/>
    <updated>2022-11-12T00:00:00+09:00</updated>
    <id>https://dlghwns740.github.io/2022/11/12/비즈니스 모델</id>
-   <content type="html">&lt;h1 id=&quot;비즈니스-모델&quot;&gt;비즈니스 모델&lt;/h1&gt;
-&lt;p&gt;어느 기업이나 개인이 영위하고자 하는 사업에서 전달하고자 하는 가치를 어떻게 전달하는지에 대한 설계를 의미합니다.&lt;/p&gt;
+   <content type="html">&lt;p&gt;#비즈니스 모델
+어느 기업이나 개인이 영위하고자 하는 사업에서 전달하고자 하는 가치를 어떻게 전달하는지에 대한 설계를 의미합니다.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;B2C&lt;/strong&gt;: Business to Customer의 약자로서 기업이 고객에게 사업을 제공하는 형태의 비즈니스 모델
 &lt;strong&gt;B2B&lt;/strong&gt;: Business to Business의 약자로서 기업이 기업에게 서업을 제공하는 형태의 비즈니스 모델
@@ -69,6 +69,7 @@
 &lt;p&gt;레드헷과 같은 기업이나 MySQL과 같이 소프트웨어 기술을 누구나 사용가능하도록 오픈한 대신 개발한 기업에게 컨설팅 및 합법적인 사업을 위한 교류를 위한 결제를 제공하여 사업 가치를 창출하는 패턴입니다.&lt;/p&gt;
 
 &lt;h2 id=&quot;비즈니스-모델의-요소business-model-canvas&quot;&gt;비즈니스 모델의 요소(Business Model Canvas)&lt;/h2&gt;
+&lt;hr /&gt;
 &lt;p&gt;알렉산더 오스터왈더, 예스 피그누어가 집필한 비즈니스 모델의 탄생에서 제안하고 정리한 Business Model Canvas를 기준으로 비즈니스 모델의 요소를 정리해보겠습니다.&lt;/p&gt;
 
 &lt;h3 id=&quot;고객-세그먼트&quot;&gt;고객 세그먼트&lt;/h3&gt;
