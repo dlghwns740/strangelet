@@ -4,7 +4,7 @@
  <title>Strangelet</title>
  <link href="https://dlghwns740.github.io//atom.xml" rel="self"/>
  <link href="https://dlghwns740.github.io//"/>
- <updated>2022-11-12T22:11:36+09:00</updated>
+ <updated>2022-11-12T22:30:30+09:00</updated>
  <id>https://dlghwns740.github.io</id>
  <author>
    <name>Strangelet</name>
@@ -60,7 +60,43 @@
 &lt;p&gt;제품을 1차적으로 무료로 이용하게끔 오픈하고 고급 기능을 유료로 판매하거나 일정 기간이 지난 이후는 구매를 해야하는 방식으로 &lt;strong&gt;많은 유저들을 모객하고 일부의 유료 고객이 나머지 무료 고객에 대한 지원까지 충당하는 형태&lt;/strong&gt;의 비즈니스 모델입니다. 이러한 무료 비즈니스 모델은 여러가지의 패턴을 가지고 있습니다.&lt;/p&gt;
 
 &lt;h4 id=&quot;광고-패턴&quot;&gt;광고 패턴&lt;/h4&gt;
-&lt;p&gt;해당 패턴은 멀티사이드 플랫폼 모델과도 상당히 일치합니다.&lt;/p&gt;
+&lt;p&gt;해당 패턴은 멀티사이드 플랫폼 모델과도 상당히 일치합니다. 한쪽에서 생산한 콘텐츠를 무료로 유저들에게 제공하며 곳곳에 광고주로부터 받은 광고를 삽입하여 사업가치를 창출하는 패턴입니다.&lt;/p&gt;
+
+&lt;h4 id=&quot;프리미엄-모델&quot;&gt;프리미엄 모델&lt;/h4&gt;
+&lt;p&gt;주로 웹이나 앱으로 무료 기능과 유료 기능을 혼합해여 서비스를 제공하여, 결제한 유저들에게만 잠겨있던 기능을 열어주어 사업가치를 발생시키는 패턴입니다.&lt;/p&gt;
+
+&lt;h4 id=&quot;오픈소스-모델&quot;&gt;오픈소스 모델&lt;/h4&gt;
+&lt;p&gt;레드헷과 같은 기업이나 MySQL과 같이 소프트웨어 기술을 누구나 사용가능하도록 오픈한 대신 개발한 기업에게 컨설팅 및 합법적인 사업을 위한 교류를 위한 결제를 제공하여 사업 가치를 창출하는 패턴입니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;비즈니스-모델의-요소business-model-canvas&quot;&gt;비즈니스 모델의 요소(Business Model Canvas)&lt;/h2&gt;
+&lt;p&gt;알렉산더 오스터왈더, 예스 피그누어가 집필한 비즈니스 모델의 탄생에서 제안하고 정리한 Business Model Canvas를 기준으로 비즈니스 모델의 요소를 정리해보겠습니다.&lt;/p&gt;
+
+&lt;h3 id=&quot;고객-세그먼트&quot;&gt;고객 세그먼트&lt;/h3&gt;
+&lt;p&gt;사업을 제공할 고객.&lt;/p&gt;
+
+&lt;h3 id=&quot;가치-제안&quot;&gt;가치 제안&lt;/h3&gt;
+&lt;p&gt;어떠한 가치(서비스)를 제공 할것인지.&lt;/p&gt;
+
+&lt;h3 id=&quot;채널&quot;&gt;채널&lt;/h3&gt;
+&lt;p&gt;기업이 고객 세그먼트에게 가치(서비스를) 전달하거나 제안하는 방법.&lt;/p&gt;
+
+&lt;h3 id=&quot;고객관계&quot;&gt;고객관계&lt;/h3&gt;
+&lt;p&gt;고객 세그먼트와 어떠한 형태로 관계를 형성할 것인지.&lt;/p&gt;
+
+&lt;h3 id=&quot;수익원&quot;&gt;수익원&lt;/h3&gt;
+&lt;p&gt;고객 세그먼트에서 현금을 창출하는 방식 혹은 제안.&lt;/p&gt;
+
+&lt;h3 id=&quot;핵심자원&quot;&gt;핵심자원&lt;/h3&gt;
+&lt;p&gt;사업을 진행하는데 가장 필요한 중요 자산.&lt;/p&gt;
+
+&lt;h3 id=&quot;핵심활동&quot;&gt;핵심활동&lt;/h3&gt;
+&lt;p&gt;기업이 사업을 제대로 영위하기 위해서 꼭 해야하는 활동과 업무.&lt;/p&gt;
+
+&lt;h3 id=&quot;핵심-파트너십&quot;&gt;핵심 파트너십&lt;/h3&gt;
+&lt;p&gt;비즈니스 모델을 원할하게 구축하고 운영하기 위해서 필요한 공급자-파트너.&lt;/p&gt;
+
+&lt;h3 id=&quot;비용구조&quot;&gt;비용구조&lt;/h3&gt;
+&lt;p&gt;사업을 운영하는데에 있어서 발생하는 모든 비용의 구조.&lt;/p&gt;
 
 &lt;h6 id=&quot;writing-log&quot;&gt;writing log&lt;/h6&gt;
 &lt;hr /&gt;
