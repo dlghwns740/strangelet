@@ -4,7 +4,7 @@
  <title>Strangelet</title>
  <link href="https://dlghwns740.github.io//atom.xml" rel="self"/>
  <link href="https://dlghwns740.github.io//"/>
- <updated>2022-11-12T20:18:09+09:00</updated>
+ <updated>2022-11-12T20:22:09+09:00</updated>
  <id>https://dlghwns740.github.io</id>
  <author>
    <name>Strangelet</name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>PMF(Product Market Fit)</title>
+   <title>비즈니스 모델(Business Model)</title>
    <link href="https://dlghwns740.github.io//2022/11/12/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%AA%A8%EB%8D%B8"/>
    <updated>2022-11-12T00:00:00+09:00</updated>
    <id>https://dlghwns740.github.io/2022/11/12/비즈니스 모델</id>
@@ -58,27 +58,12 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;#### 기존의 이동통신사 사업자&lt;/th&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th&gt;자체 네트워크 시스템 및 장비&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;- 네트워크 상품&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;- 상품 세일즈&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;- 인프라 관리 인력 및 시스템&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;h4 id=&quot;--기존의-이동통신사-사업자--언번들링-된-이동통신-비즈니스-모델-&quot;&gt;|  기존의 이동통신사 사업자 | 언번들링 된 이동통신 비즈니스 모델 |&lt;/h4&gt;
+&lt;p&gt;| —————————– | ————————————— |
+| 자체 네트워크 시스템 및 장비  | 자체 네트워크를 다른 통신사에 대여                                        |
+| - 네트워크 상품               | - 네트워크 상품 개발 및 관리 아웃소싱만 집중                                        |
+| - 상품 세일즈                 |- 네트워크 상품 개발 및 고객관리 아웃소싱                                         |
+| - 인프라 관리 인력 및 시스템  |         - 네트워크 인프로 관리 용역                                |&lt;/p&gt;
 
 &lt;h6 id=&quot;writing-log&quot;&gt;writing log&lt;/h6&gt;
 &lt;hr /&gt;
