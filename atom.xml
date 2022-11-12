@@ -4,13 +4,84 @@
  <title>Strangelet</title>
  <link href="https://dlghwns740.github.io//atom.xml" rel="self"/>
  <link href="https://dlghwns740.github.io//"/>
- <updated>2022-11-10T05:26:35+09:00</updated>
+ <updated>2022-11-12T20:17:46+09:00</updated>
  <id>https://dlghwns740.github.io</id>
  <author>
    <name>Strangelet</name>
    <email>dlghwns740@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>비즈니스 모델</title>
+   <link href="https://dlghwns740.github.io//2022/11/12/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%AA%A8%EB%8D%B8"/>
+   <updated>2022-11-12T00:00:00+09:00</updated>
+   <id>https://dlghwns740.github.io/2022/11/12/비즈니스 모델</id>
+   <content type="html">&lt;h1 id=&quot;비즈니스-모델&quot;&gt;비즈니스 모델&lt;/h1&gt;
+&lt;p&gt;어느 기업이나 개인이 영위하고자 하는 사업에서 전달하고자 하는 가치를 어떻게 전달하는지에 대한 설계를 의미합니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;B2C&lt;/strong&gt;: Business to Customer의 약자로서 기업이 고객에게 사업을 제공하는 형태의 비즈니스 모델
+&lt;strong&gt;B2B&lt;/strong&gt;: Business to Business의 약자로서 기업이 기업에게 서업을 제공하는 형태의 비즈니스 모델
+그 이외에 정부를 대상으로 하는 B2G등 사업의 형태에 따라서 다양하게 비즈니스 모델을 정의할 수 있습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;비즈니스-모델의-예시&quot;&gt;비즈니스 모델의 예시&lt;/h2&gt;
+
+&lt;h3 id=&quot;언번들링-비즈니스-모델un-bundling-business-model&quot;&gt;언번들링 비즈니스 모델(Un-Bundling Business Model)&lt;/h3&gt;
+&lt;p&gt;가장 쉽게 접할 수 있는 비즈니스 모델의 형태로서 산업에서 필요로하는 사업 형태를 쪼개어서 서비스를 제공하는 비즈니스 모델의 형태입니다. 가장 큰 예시로서 대표적인 예시로서 이동통신사업자들이 있습니다. 과거에는 네트워크 품질과 상품등 사업에 필요한 모든것들을 경쟁 해왔지만 이제는 네트워크 유지보수, 휴대폰 요금제 판매 등 사업에 필요한 요소를 언번들링 즉 쪼개어서 하나의 역량에만 집중하여 여러 회사와 고객들에게 사업을 제공하는 형태의 비즈니스 모델입니다.&lt;/p&gt;
+
+&lt;h4 id=&quot;기존의-이동통신사-사업자&quot;&gt;기존의 이동통신사 사업자&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;자체 네트워크 시스템 및 장비&lt;/li&gt;
+  &lt;li&gt;네트워크 상품&lt;/li&gt;
+  &lt;li&gt;상품 세일즈&lt;/li&gt;
+  &lt;li&gt;인프라 관리 인력 및 시스템&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;언번들링-된-이동통신-비즈니스-모델&quot;&gt;언번들링 된 이동통신 비즈니스 모델&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;자체 네트워크를 다른 통신사에 대여&lt;/li&gt;
+  &lt;li&gt;네트워크 상품 개발 및 관리 아웃소싱만 집중&lt;/li&gt;
+  &lt;li&gt;네트워크 상품 개발 및 고객관리 아웃소싱&lt;/li&gt;
+  &lt;li&gt;네트워크 인프로 관리 용역&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#### 기존의 이동통신사 사업자&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;자체 네트워크 시스템 및 장비&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;- 네트워크 상품&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;- 상품 세일즈&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;- 인프라 관리 인력 및 시스템&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>PMF(Product Market Fit)</title>
