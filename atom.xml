@@ -4,7 +4,7 @@
  <title>Strangelet</title>
  <link href="https://dlghwns740.github.io//atom.xml" rel="self"/>
  <link href="https://dlghwns740.github.io//"/>
- <updated>2022-11-29T15:10:27+09:00</updated>
+ <updated>2022-11-29T15:16:23+09:00</updated>
  <id>https://dlghwns740.github.io</id>
  <author>
    <name>Strangelet</name>
@@ -39,25 +39,25 @@ comments: false
 
 &lt;h3 id=&quot;프로덕트-공유&quot;&gt;프로덕트 공유&lt;/h3&gt;
 &lt;p&gt;아래 이미지와 같이 프로덕트에 대해서 등록하고 upvote, 댓글을 통해서 메이커들에게 피드백을 주고받을 수 있으며, 자신이 만든 프로덕트가 아니더라도 공유가 가능하여 흥미로운 프로덕트를 메이커들에게 공유하는 기능을 수행합니다.
-![[스크린샷 2022-11-29 오후 2.52.45.png]]&lt;/p&gt;
+![[/스크린샷 2022-11-29 오후 2.52.45.png]]&lt;/p&gt;
 
 &lt;h3 id=&quot;메이커로그&quot;&gt;메이커로그&lt;/h3&gt;
 &lt;p&gt;일반적인 포스팅 형태로 구성된 기능으로서 자신이 개발하고 있는 제품의 히스토리를 기록하거나 인사이트를 메이커들에게 공유하며 소통할 수 있는 기능입니다. 최근 Disquiet이 추구하는 가치 중 하나인 BIP(Build-in-public)을 메이커들이 실현할 수 있도록 하는 메인 기능이라고 보여집니다.
-![[스크린샷 2022-11-29 오후 2.55.07.png]]&lt;/p&gt;
+![[/스크린샷 2022-11-29 오후 2.55.07.png]]&lt;/p&gt;
 
 &lt;h3 id=&quot;메이커-스퀘어&quot;&gt;메이커 스퀘어&lt;/h3&gt;
 &lt;p&gt;메이커로그와 비슷하게 포스팅 형태로 구현된 기능으로서 팀원 구인구직을 목적으로 분리된 기능입니다.&lt;/p&gt;
 
 &lt;h3 id=&quot;메이커-클럽&quot;&gt;메이커 클럽&lt;/h3&gt;
 &lt;p&gt;Disquiet이라는 네트워크에서 소규모로 특정 목적으로 다른 커뮤니티를 만들 수 있는 기능입니다. 참여자들이 클럽 설립 목적에 맞게끔 이벤트를 개최하거나 메이커 로그를 작성하며 소통할 수 있도록 제공됩니다.
-![[스크린샷 2022-11-29 오후 2.59.04.png]]&lt;/p&gt;
+![[/스크린샷 2022-11-29 오후 2.59.04.png]]&lt;/p&gt;
 
 &lt;h2 id=&quot;disquiet-비즈니스-모델&quot;&gt;Disquiet 비즈니스 모델&lt;/h2&gt;
 &lt;p&gt;아직까지 명확해보이는 Disquiet의 비즈니스 모델은 파악하기 힘든 상태인것 같습니다. 아직까지는 PMF(Product Market Fit) 즉 수요와 공급을 이어주어서 매출을 발생시키는 구조는 형성되지 못한걸로 파악됩니다.&lt;/p&gt;
 
 &lt;h2 id=&quot;주요-활동들&quot;&gt;주요 활동들&lt;/h2&gt;
 &lt;p&gt;500 Startup, 매쉬업엔젤스 등 엑셀러레이터 및 투자사들과 다양한 온,오프라인 이벤트들을 개최하고 있습니다.
-![[Pasted image 20221129150822.png]]&lt;/p&gt;
+![[/Pasted image 20221129150822.png]]&lt;/p&gt;
 
 &lt;h6 id=&quot;writing-log&quot;&gt;writing log&lt;/h6&gt;
 &lt;hr /&gt;
