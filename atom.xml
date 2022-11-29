@@ -4,13 +4,66 @@
  <title>Strangelet</title>
  <link href="https://dlghwns740.github.io//atom.xml" rel="self"/>
  <link href="https://dlghwns740.github.io//"/>
- <updated>2022-11-12T22:59:52+09:00</updated>
+ <updated>2022-11-29T15:10:27+09:00</updated>
  <id>https://dlghwns740.github.io</id>
  <author>
    <name>Strangelet</name>
    <email>dlghwns740@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Disquiet</title>
+   <link href="https://dlghwns740.github.io//2022/11/29/disquiet"/>
+   <updated>2022-11-29T00:00:00+09:00</updated>
+   <id>https://dlghwns740.github.io/2022/11/29/Disquiet</id>
+   <content type="html">
+&lt;hr /&gt;
+&lt;p&gt;layout: post
+title: Disquiet
+description:  Disquiet에 관한 분석
+summary: 메이커들의 공간 Disquiet에 대해서 알아봅시다.
+tags: product
+minute: 2
+comments: false
+—&lt;/p&gt;
+
+&lt;h1 id=&quot;disquiet이란&quot;&gt;Disquiet이란…&lt;/h1&gt;
+&lt;p&gt;디스콰이엇은 IT 업계 종사자들이 자신들이 만든 제품을 공유하고 피드백을 주고받는 소셜 네트워크 서비스입니다. 자신의 프로덕트나 다른 사람의 프로덕트 소개글을 등록하여 홍보 및 피드백을 얻을 수 있으며 메이커로그라는 형태의 포스팅 기능으로 자신이 만들고 있는 프로덕트에 대한 생각과 인사이트, 업계 소식을 통칭 “메이커” 라는 유저들에게 공유가 가능합니다.&lt;/p&gt;
+
+&lt;p&gt;추가로 메이커클럽 이라는 이름의 그룹 기능을 통해서 스터디 처럼 특정 목표나 주제에 맞는 사람들끼리 모여서 목적에 더 집중할 수 있는 기능도 제공하고 있습니다.&lt;/p&gt;
+
+&lt;p&gt;대표 박현솔님이 노코드 형태로 2020년부터 사이드프로젝트로서 시작하였으며 법인은 2021-04-26에 설립되었습니다. &lt;a href=&quot;https://www.disquiet.tech/post/validation-in-two-weeks&quot;&gt;가장 첫 시작에 대한 박현솔님의 글을&lt;/a&gt;통해서 알아볼 수 있는 내용으로는 &lt;strong&gt;‘새로 발견한 서비스 혹은 자신의 서비스를 공유하고 사람들에게 피드백을 받을 수 있는 플랫폼이 있으면 어떨까?’&lt;/strong&gt; 라는 생각으로 시작하게 되었다고 합니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;서비스-기능&quot;&gt;서비스 기능&lt;/h2&gt;
+
+&lt;h3 id=&quot;프로덕트-공유&quot;&gt;프로덕트 공유&lt;/h3&gt;
+&lt;p&gt;아래 이미지와 같이 프로덕트에 대해서 등록하고 upvote, 댓글을 통해서 메이커들에게 피드백을 주고받을 수 있으며, 자신이 만든 프로덕트가 아니더라도 공유가 가능하여 흥미로운 프로덕트를 메이커들에게 공유하는 기능을 수행합니다.
+![[스크린샷 2022-11-29 오후 2.52.45.png]]&lt;/p&gt;
+
+&lt;h3 id=&quot;메이커로그&quot;&gt;메이커로그&lt;/h3&gt;
+&lt;p&gt;일반적인 포스팅 형태로 구성된 기능으로서 자신이 개발하고 있는 제품의 히스토리를 기록하거나 인사이트를 메이커들에게 공유하며 소통할 수 있는 기능입니다. 최근 Disquiet이 추구하는 가치 중 하나인 BIP(Build-in-public)을 메이커들이 실현할 수 있도록 하는 메인 기능이라고 보여집니다.
+![[스크린샷 2022-11-29 오후 2.55.07.png]]&lt;/p&gt;
+
+&lt;h3 id=&quot;메이커-스퀘어&quot;&gt;메이커 스퀘어&lt;/h3&gt;
+&lt;p&gt;메이커로그와 비슷하게 포스팅 형태로 구현된 기능으로서 팀원 구인구직을 목적으로 분리된 기능입니다.&lt;/p&gt;
+
+&lt;h3 id=&quot;메이커-클럽&quot;&gt;메이커 클럽&lt;/h3&gt;
+&lt;p&gt;Disquiet이라는 네트워크에서 소규모로 특정 목적으로 다른 커뮤니티를 만들 수 있는 기능입니다. 참여자들이 클럽 설립 목적에 맞게끔 이벤트를 개최하거나 메이커 로그를 작성하며 소통할 수 있도록 제공됩니다.
+![[스크린샷 2022-11-29 오후 2.59.04.png]]&lt;/p&gt;
+
+&lt;h2 id=&quot;disquiet-비즈니스-모델&quot;&gt;Disquiet 비즈니스 모델&lt;/h2&gt;
+&lt;p&gt;아직까지 명확해보이는 Disquiet의 비즈니스 모델은 파악하기 힘든 상태인것 같습니다. 아직까지는 PMF(Product Market Fit) 즉 수요와 공급을 이어주어서 매출을 발생시키는 구조는 형성되지 못한걸로 파악됩니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;주요-활동들&quot;&gt;주요 활동들&lt;/h2&gt;
+&lt;p&gt;500 Startup, 매쉬업엔젤스 등 엑셀러레이터 및 투자사들과 다양한 온,오프라인 이벤트들을 개최하고 있습니다.
+![[Pasted image 20221129150822.png]]&lt;/p&gt;
+
+&lt;h6 id=&quot;writing-log&quot;&gt;writing log&lt;/h6&gt;
+&lt;hr /&gt;
+&lt;p&gt;2022-11-29- 초안 작성&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>비즈니스 모델(Business Model)</title>
