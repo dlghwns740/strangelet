@@ -4,7 +4,7 @@
  <title>Strangelet</title>
  <link href="https://dlghwns740.github.io//atom.xml" rel="self"/>
  <link href="https://dlghwns740.github.io//"/>
- <updated>2022-11-29T15:16:23+09:00</updated>
+ <updated>2022-11-29T15:22:46+09:00</updated>
  <id>https://dlghwns740.github.io</id>
  <author>
    <name>Strangelet</name>
@@ -39,8 +39,7 @@ comments: false
 
 &lt;h3 id=&quot;프로덕트-공유&quot;&gt;프로덕트 공유&lt;/h3&gt;
 &lt;p&gt;아래 이미지와 같이 프로덕트에 대해서 등록하고 upvote, 댓글을 통해서 메이커들에게 피드백을 주고받을 수 있으며, 자신이 만든 프로덕트가 아니더라도 공유가 가능하여 흥미로운 프로덕트를 메이커들에게 공유하는 기능을 수행합니다.
-![[/스크린샷 2022-11-29 오후 2.52.45.png]]&lt;/p&gt;
-
+&lt;img src=&quot;스크린샷 2022-11-29 오후 2.52.45&quot; alt=&quot;이미지 이름&quot; /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;메이커로그&quot;&gt;메이커로그&lt;/h3&gt;
 &lt;p&gt;일반적인 포스팅 형태로 구성된 기능으로서 자신이 개발하고 있는 제품의 히스토리를 기록하거나 인사이트를 메이커들에게 공유하며 소통할 수 있는 기능입니다. 최근 Disquiet이 추구하는 가치 중 하나인 BIP(Build-in-public)을 메이커들이 실현할 수 있도록 하는 메인 기능이라고 보여집니다.
 ![[/스크린샷 2022-11-29 오후 2.55.07.png]]&lt;/p&gt;
